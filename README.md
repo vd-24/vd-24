@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **deshmukhjeet6@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://(https://vd-24.github.io/))**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://(https://vd-24.github.io/)**
 
 ## 🌐 Socials :
 
