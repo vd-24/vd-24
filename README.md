@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 📫 How to reach me : **deshmukhjeet6@gmail.com**
+- 📫 How to reach me : **vishwajeetdeshmukh24@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://(https://vd-24.github.io/)**
 
